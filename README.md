@@ -7,6 +7,8 @@
 | name   | image                                                         |
 | ------ | ------------------------------------------------------------- |
 | カップ | <img src="/image/book_blender_beginning_cap.png" width=320px> |
+| マグ | <img src="/image/book_blender_beginning_mug.png" width=320px> |
+
 
 # udemy
 
