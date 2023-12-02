@@ -9,6 +9,7 @@
 | <img src="/image/book_blender_beginning_cap.png" width=320px>   | ○    |        | ○   |       |      |          |        |          |            |                | ○              |
 | <img src="/image/book_blender_beginning_mug.png" width=320px>   | ○    |        |     |       | ○    | ○        |        |          |            | ○              |                |
 | <img src="/image/book_blender_beginning_house.png" width=320px> | ○    | ○      |     |       | ○    |          |        |          |            |                | ○              |
+| <img src="/image/book_blender_beginning_text.png" width=320px> | ○    |        |     |       |      |          |        | ○        |            |                |                |
 
 # udemy
 
