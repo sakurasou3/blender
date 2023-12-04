@@ -18,3 +18,7 @@
 | name | image |
 | ------ | ------------------------------------------------------------- |
 | くまちゃん | <img src="/image/udemy_first_blender_bear.png" width=320px> |
+
+# 参考
+### 環境テクスチャ（フリー）
+https://polyhaven.com
