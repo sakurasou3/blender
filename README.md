@@ -11,6 +11,7 @@
 | <img src="/image/book_blender_beginning_house.png" width=320px>     | ○    | ○      |     |       | ○    |          |        |          |            |                | ○              |
 | <img src="/image/book_blender_beginning_text.png" width=320px>      | ○    |        |     |       |      |          |        | ○        |            |                |                |
 | <img src="/image/book_blender_beginning_cook_tool.png" width=320px> | ○    |        |     | ○     |      |          |        | 　       |            |                |                |
+| <img src="/image/book_blender_beginning_corn.png" width=320px>      | ○    |        |     |       |      |          |        | 　       |            |                |                |
 
 # udemy
 
@@ -20,5 +21,7 @@
 | くまちゃん | <img src="/image/udemy_first_blender_bear.png" width=320px> |
 
 # 参考
+
 ### 環境テクスチャ（フリー）
+
 https://polyhaven.com
